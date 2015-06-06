@@ -1,0 +1,7 @@
+working through some options for describing local community resources in a flexible way. 
+
+first goal is to start describing the entities, attributes, and relationships in a JSON schema. 
+
+google worksheet for organizing is [here](https://docs.google.com/spreadsheets/d/1K_XIwxAyY9HZxx46W7dsoG--C7C-jf3X58K1ut7P2uo/edit#gid=0).
+
+JSON schema reference can be found at http://json-schema.org/.
