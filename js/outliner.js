@@ -1,7 +1,7 @@
-var IMG_EXPANDED  = 'Expanded.png';
-var IMG_COLLAPSED = 'Collapsed.png';
-var IMG_BLANK = 'blank.png';
-var IMG_LEAF = 'LeafRowHandle.png';
+var IMG_EXPANDED  = 'img/Expanded.png';
+var IMG_COLLAPSED = 'img/Collapsed.png';
+var IMG_BLANK = 'img/blank.png';
+var IMG_LEAF = 'img/LeafRowHandle.png';
 
 new Image(9,9),src = IMG_EXPANDED; // caching
 new Image(9,9),src = IMG_COLLAPSED; // caching
