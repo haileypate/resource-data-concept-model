@@ -1,10 +1,13 @@
 working through some options for describing local community resources in a flexible way. 
 
-first goal is to start describing the entities, attributes, and relationships in a JSON schema. 
+first goal is to start describing the entities, attributes, and relationships in an outline that could be translated into a JSON schema. 
 
 google worksheet for organizing is [here](https://docs.google.com/spreadsheets/d/1K_XIwxAyY9HZxx46W7dsoG--C7C-jf3X58K1ut7P2uo/edit#gid=0).
 
+and an outline for organizing the documentation about the model is started [here](http://haileypate.github.io/resource-data-concept-model).
+
 JSON schema reference can be found at http://json-schema.org/.
+lots of common types and good work already done at http://schema.org
 
 ## Why I'm doing this...
 - A more flexible model is needed to help people organize their resource data
@@ -13,6 +16,7 @@ JSON schema reference can be found at http://json-schema.org/.
 
 ## Target model design features:
 - machine readable documentation
+- friendliness with schema.org, where a lot of work has already been done
 - ability to receive and organize information from AIRS-compatible data systems with minimum info loss
 - ability to take data in this schema and re-organize it for presentation using the existing data structures available at schema.org
 
